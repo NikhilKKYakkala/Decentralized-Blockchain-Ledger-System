@@ -1,1 +1,1 @@
-This is a Blockchain Ledger System that I have created.
+This is a Blockchain Ledger System.
