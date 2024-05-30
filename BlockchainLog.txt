@@ -1,0 +1,740 @@
+Blockchain Log File
+
+Process 'ZERO':
+Command Line Aruguments
+$ javac -cp "gson-2.8.2.jar" Blockchain.java
+$ java -cp ".;gson-2.8.2.jar" Blockchain 0
+BlockChain Program has started up......
+
+BlockInput0.txt is being read by the program.
+The Main Server started and is at port : 4600
+Unverified Block Server started and is at port 4820
+Updated Block chain Server started and is at port: 4930
+Public Keys Server started and is at the port: 4710
+Publickey received for Process: 1
+Publickey received for Process: 2
+Starting the Program Block Chain
+Public Key created for Multicasting is : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxwC8yRl9AaFSfZ/ih+x3PKBcSr
+5yEmc7mcNmu2fC1SdFlG8svSnxLZJTmtCVB5qybpPrtnybZ2udQeqZjew5T+mDOirqxzlJh5RlmmootlIxTCqUtsgmBBHscx3mypzsz/lO
+UUUsGmLsrQpyK3qqHE0Fq9aoOAFB0krwzTH/KFQIDAQAB
+Publickey received for Process: 0
+Updated block : 62cef081-85a9-4a9b-9ef6-0b42b94031bc
+Updated block : 62cef081-85a9-4a9b-9ef6-0b42b94031bc
+Updated block : 62cef081-85a9-4a9b-9ef6-0b42b94031bc
+Ledger Modified!!! The Dummy Block has been written into the Ledger
+Writing the JSON Ledger Block into disk
+
+Writing the JSON Ledger Block into disk
+
+Added bcb9fecd-4985-42f9-ba9f-dfe3fc91d793 into the Priority Blocking Queue
+
+Added bd90965a-9ab7-4161-b63e-72e0c8803e78 into the Priority Blocking Queue
+
+Added c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3 into the Priority Blocking Queue
+
+Added eab92fb8-b805-4ae1-bdbc-456655a5f2e6 into the Priority Blocking Queue
+
+Added 45482682-65bf-41b6-bf2e-4105752fba5f into the Priority Blocking Queue
+
+Added d25898b6-3420-4cb1-9c97-171181447d20 into the Priority Blocking Queue
+
+Added a0adaf35-6350-49c7-891c-bfece2a69e03 into the Priority Blocking Queue
+
+Added 49b01baf-ccc4-4a09-9e4a-ce5e3b5563b7 into the Priority Blocking Queue
+
+Added 33f7f433-554a-49ce-a7ba-c6e381e4a6b9 into the Priority Blocking Queue
+
+Added 0ec50bab-d1bf-402d-9400-614c87bb5a72 into the Priority Blocking Queue
+
+Added f42f7c1a-2aa1-4063-b21e-5d40353a4c44 into the Priority Blocking Queue
+
+Added 21cfff1f-8fd7-47fd-8dd0-a7a32c24995b into the Priority Blocking Queue
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: B464895CDC708397685D19AF83218DF5FDCB9148E9C4E7F3A9EE0C0F92609EAD
+16 bits of the hash in Hex: B464
+16 bits of the hash in Decimal: 46180
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Hash Value for Block Record is: 8E7F124130E43B0E039972A67E9A17F1954F1DD26ABD27F7E5B83E2F757B83BC
+16 bits of the hash in Hex: 8E7F
+16 bits of the hash in Decimal: 36479
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Writing the JSON Ledger Block into disk
+
+Hash Value for Block Record is: 4DE973C87705C6C871154ED0BCDB74E71444CD080E6F15AD03C684C5A5D622F4
+16 bits of the hash in Hex: 4DE9
+16 bits of the hash in Decimal: 19945
+Verified block : bd90965a-9ab7-4161-b63e-72e0c8803e78
+Added bd90965a-9ab7-4161-b63e-72e0c8803e78 into the Priority Blocking Queue
+
+Verified block : bd90965a-9ab7-4161-b63e-72e0c8803e78
+Verified block : bd90965a-9ab7-4161-b63e-72e0c8803e78
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: A25B56BD3B464626FDBDA2013199CF0A847652FD8C9163968C3C64AC33F65774
+16 bits of the hash in Hex: A25B
+16 bits of the hash in Decimal: 41563
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Writing the JSON Ledger Block into disk
+
+Hash Value for Block Record is: 187A308B9E0293235867295D7DB9C659AC488C477975ED818CFC6C23E345FA68
+16 bits of the hash in Hex: 187A
+16 bits of the hash in Decimal: 6266
+Verified block : 45482682-65bf-41b6-bf2e-4105752fba5f
+Added 45482682-65bf-41b6-bf2e-4105752fba5f into the Priority Blocking Queue
+
+Verified block : 45482682-65bf-41b6-bf2e-4105752fba5f
+Verified block : 45482682-65bf-41b6-bf2e-4105752fba5f
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 9139B3973BD676DAAC943C8473EB30CD75AE5D0A54D0C4351578F2C34C3C1204
+16 bits of the hash in Hex: 9139
+16 bits of the hash in Decimal: 37177
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Hash Value for Block Record is: 51272CD6415E6DC06C5C5A45C13BE7B467EBA10ABE60DD854E010BE84FABBB5F
+16 bits of the hash in Hex: 5127
+16 bits of the hash in Decimal: 20775
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Writing the JSON Ledger Block into disk
+
+Added 33f7f433-554a-49ce-a7ba-c6e381e4a6b9 into the Priority Blocking Queue
+
+Hash Value for Block Record is: 723C5EE31DB5F35ECAC1F3D00E632C1707F9D998006EBC9A44363349A0A8C421
+16 bits of the hash in Hex: 723C
+16 bits of the hash in Decimal: 29244
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: D387CB3BA099E970B26700265C24B3185FF9053B8F6EFAC3785D5DA7A814F154
+16 bits of the hash in Hex: D387
+16 bits of the hash in Decimal: 54151
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Writing the JSON Ledger Block into disk
+
+Hash Value for Block Record is: EEF7311F80933A83F7CD5D2A6FD556B1D6CC70996EE837743DC4C8EBD85BFEF4
+16 bits of the hash in Hex: EEF7
+16 bits of the hash in Decimal: 61175
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 3606C748BE8C2461AA13BD5052DF990B8C55D42EFEAFAC71A4CA0A56C8FC1ADA
+16 bits of the hash in Hex: 3606
+16 bits of the hash in Decimal: 13830
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : d25898b6-3420-4cb1-9c97-171181447d20
+Writing the JSON Ledger Block into disk
+
+Updated block : d25898b6-3420-4cb1-9c97-171181447d20
+Updated block : d25898b6-3420-4cb1-9c97-171181447d20
+Hash Value for Block Record is: 3043E1DC822BE1CA20E5A5D1DCDCFB572566BD89E3FA4F0DB0D19D8BF3C2A18A
+16 bits of the hash in Hex: 3043
+16 bits of the hash in Decimal: 12355
+Verified block : d25898b6-3420-4cb1-9c97-171181447d20
+Added d25898b6-3420-4cb1-9c97-171181447d20 into the Priority Blocking Queue
+
+Verified block : d25898b6-3420-4cb1-9c97-171181447d20
+Verified block : d25898b6-3420-4cb1-9c97-171181447d20
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: FE781F52E24086ACE300D79BEAA09A71167C0B5E829AEF378A0B953C27C78B93
+16 bits of the hash in Hex: FE78
+16 bits of the hash in Decimal: 65144
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added bcb9fecd-4985-42f9-ba9f-dfe3fc91d793 into the Priority Blocking Queue
+
+Added d25898b6-3420-4cb1-9c97-171181447d20 into the Priority Blocking Queue
+
+Hash Value for Block Record is: 01D196BF531C308FA273336B418137AA13B9C08DDE229B88ACABAB3A4E6BA3E2
+16 bits of the hash in Hex: 01D1
+16 bits of the hash in Decimal: 465
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : 0ec50bab-d1bf-402d-9400-614c87bb5a72
+Writing the JSON Ledger Block into disk
+
+Updated block : 0ec50bab-d1bf-402d-9400-614c87bb5a72
+Updated block : 0ec50bab-d1bf-402d-9400-614c87bb5a72
+Hash Value for Block Record is: 62A58A57B058D91559D5B75514D5B3273FD4C6CE8287B4310C1196B203AA8173
+16 bits of the hash in Hex: 62A5
+16 bits of the hash in Decimal: 25253
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: B971376CF6E392F2538747FAABB5EE8024DDEAE6F0A51FF6EA69E1AAF6BE23A7
+16 bits of the hash in Hex: B971
+16 bits of the hash in Decimal: 47473
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Writing the JSON Ledger Block into disk
+
+Added 0ec50bab-d1bf-402d-9400-614c87bb5a72 into the Priority Blocking Queue
+
+Added the Block into Legder
+Writing the JSON Ledger Block into disk
+
+Added the Block into Legder
+Writing the JSON Ledger Block into disk
+
+Added f42f7c1a-2aa1-4063-b21e-5d40353a4c44 into the Priority Blocking Queue
+
+Hash Value for Block Record is: 4C70FC7646FDB0717E4B62B78F35AF52A290FD178BA7AAA7B37FB1F3467238BF
+16 bits of the hash in Hex: 4C70
+16 bits of the hash in Decimal: 19568
+Verified block : c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3
+Added c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3 into the Priority Blocking Queue
+
+Verified block : c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3
+Verified block : c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 7AC7802411AD41685FE4B48FA3233C8D143209B09713FE401AB0729D7C260E64
+16 bits of the hash in Hex: 7AC7
+16 bits of the hash in Decimal: 31431
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Writing the JSON Ledger Block into disk
+
+Added the Block into Legder
+Writing the JSON Ledger Block into disk
+
+Added the Block into Legder
+Writing the JSON Ledger Block into disk
+
+Hash Value for Block Record is: E4890C617734288DDE1B4AF558D43CC5A725C1BB4EAD20296C098BC34DC1F633
+16 bits of the hash in Hex: E489
+16 bits of the hash in Decimal: 58505
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added eab92fb8-b805-4ae1-bdbc-456655a5f2e6 into the Priority Blocking Queue
+
+JSON has been created and the file has been created into the disk
+You can ask the program for the options credits, verify or list.
+
+Enter C or V or L:
+
+
+Process 'ONE':
+Command Line Aruguments
+$ java -cp ".;gson-2.8.2.jar" Blockchain 1
+BlockChain Program has started up......
+
+BlockInput1.txt is being read by the program.
+The Main Server started and is at port : 4601
+Public Keys Server started and is at the port: 4711
+Unverified Block Server started and is at port 4821
+Updated Block chain Server started and is at port: 4931
+Starting the Program Block Chain
+Public Key created for Multicasting is : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxwC8yRl9AaFSfZ/ih+x3PKBcSr
+5yEmc7mcNmu2fC1SdFlG8svSnxLZJTmtCVB5qybpPrtnybZ2udQeqZjew5T+mDOirqxzlJh5RlmmootlIxTCqUtsgmBBHscx3mypzsz/lO
+UUUsGmLsrQpyK3qqHE0Fq9aoOAFB0krwzTH/KFQIDAQAB
+Publickey received for Process: 1
+Publickey received for Process: 2
+Publickey received for Process: 0
+Added the Block into Legder
+Added bcb9fecd-4985-42f9-ba9f-dfe3fc91d793 into the Priority Blocking Queue
+
+Added bd90965a-9ab7-4161-b63e-72e0c8803e78 into the Priority Blocking Queue
+
+Added c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3 into the Priority Blocking Queue
+
+Added eab92fb8-b805-4ae1-bdbc-456655a5f2e6 into the Priority Blocking Queue
+
+Added 45482682-65bf-41b6-bf2e-4105752fba5f into the Priority Blocking Queue
+
+Added d25898b6-3420-4cb1-9c97-171181447d20 into the Priority Blocking Queue
+
+Added a0adaf35-6350-49c7-891c-bfece2a69e03 into the Priority Blocking Queue
+
+Added 49b01baf-ccc4-4a09-9e4a-ce5e3b5563b7 into the Priority Blocking Queue
+
+Added 33f7f433-554a-49ce-a7ba-c6e381e4a6b9 into the Priority Blocking Queue
+
+Added 0ec50bab-d1bf-402d-9400-614c87bb5a72 into the Priority Blocking Queue
+
+Added f42f7c1a-2aa1-4063-b21e-5d40353a4c44 into the Priority Blocking Queue
+
+Added 21cfff1f-8fd7-47fd-8dd0-a7a32c24995b into the Priority Blocking Queue
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 6D273FF81A1DF21ABCA53E483D67221454BC18B3B3C5D58D5F085FDD6E40A1F5
+16 bits of the hash in Hex: 6D27
+16 bits of the hash in Decimal: 27943
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Hash Value for Block Record is: A9754C97395D4101C25475E6ADF3FB09B3640988F08D6F9FD4BDAF0537EA7D58
+16 bits of the hash in Hex: A975
+16 bits of the hash in Decimal: 43381
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Added bd90965a-9ab7-4161-b63e-72e0c8803e78 into the Priority Blocking Queue
+
+Hash Value for Block Record is: DB30B53A66AB1BCB904F6D7430C51CDA01813EFD0B2623D2C055B1A3D86F631F
+16 bits of the hash in Hex: DB30
+16 bits of the hash in Decimal: 56112
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: D9069D878A25A1638B20D0413D1E0AF03A39D38FC75B2F66977E84258048C7CE
+16 bits of the hash in Hex: D906
+16 bits of the hash in Decimal: 55558
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Added 45482682-65bf-41b6-bf2e-4105752fba5f into the Priority Blocking Queue
+
+Hash Value for Block Record is: 85F9E805E53EAD56CACD749A8BA21CF0BEB2BDE318E6120AF125B8E26DAC61ED
+16 bits of the hash in Hex: 85F9
+16 bits of the hash in Decimal: 34297
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: AF14189B9A557B187203213AB6CCEDBE52D662E27CD659872CCF1820F7C2E51F
+16 bits of the hash in Hex: AF14
+16 bits of the hash in Decimal: 44820
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Hash Value for Block Record is: 2567AFE614F0DD34A4B79CF40A7D8A11E731848D2279E9973DD8FB98830CE01A
+16 bits of the hash in Hex: 2567
+16 bits of the hash in Decimal: 9575
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : 33f7f433-554a-49ce-a7ba-c6e381e4a6b9
+Updated block : 33f7f433-554a-49ce-a7ba-c6e381e4a6b9
+Updated block : 33f7f433-554a-49ce-a7ba-c6e381e4a6b9
+Hash Value for Block Record is: 87062918543649B26E7455413098798F8A7B5F3E6D881F3897697970D96A117B
+16 bits of the hash in Hex: 8706
+16 bits of the hash in Decimal: 34566
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: B8115B8852378D12A0C518219FF6EB1E2689AEBFFD81EC068E8AFCA7F3CF6D4B
+16 bits of the hash in Hex: B811
+16 bits of the hash in Decimal: 47121
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added 33f7f433-554a-49ce-a7ba-c6e381e4a6b9 into the Priority Blocking Queue
+
+Hash Value for Block Record is: A90F3AB629508C2E5B933B5838D55C9BC56DCAF9BDE5B4342A2C7A18C77FB99C
+16 bits of the hash in Hex: A90F
+16 bits of the hash in Decimal: 43279
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Added the Block into Legder
+Added d25898b6-3420-4cb1-9c97-171181447d20 into the Priority Blocking Queue
+
+Hash Value for Block Record is: 2FDFD06445E06EEA838006D6A096B36EE155AC4766312272F75BDF01015DD4A1
+16 bits of the hash in Hex: 2FDF
+16 bits of the hash in Decimal: 12255
+Verified block : bcb9fecd-4985-42f9-ba9f-dfe3fc91d793
+Verified block : bcb9fecd-4985-42f9-ba9f-dfe3fc91d793
+Added bcb9fecd-4985-42f9-ba9f-dfe3fc91d793 into the Priority Blocking Queue
+
+Verified block : bcb9fecd-4985-42f9-ba9f-dfe3fc91d793
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: FA5FC60E8A288151D33B511F4AF5BBB6D4C27CF60C2C6ADFC6BF0641C7D70167
+16 bits of the hash in Hex: FA5F
+16 bits of the hash in Decimal: 64095
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added d25898b6-3420-4cb1-9c97-171181447d20 into the Priority Blocking Queue
+
+Added the Block into Legder
+Hash Value for Block Record is: E8AEDE30CC605C239AF8B85DBE5F2E178B7516D9CD5308165F964052FB98907D
+16 bits of the hash in Hex: E8AE
+16 bits of the hash in Decimal: 59566
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 3C51A881CAC8462BEE94F1DEDA29D1D036E3AD2B37ED5CC2B108B776BE90E33C
+16 bits of the hash in Hex: 3C51
+16 bits of the hash in Decimal: 15441
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3
+Updated block : c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3
+Updated block : c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3
+Hash Value for Block Record is: DB355D069EC82ED23E67E41A06067CFAB3006BFCD191D0B432323E991BEFF20D
+16 bits of the hash in Hex: DB35
+16 bits of the hash in Decimal: 56117
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 95816969E5CFEE2CFAA8DA0EC748AB29BC8A5D73095D2932B4BBDB0D973126BC
+16 bits of the hash in Hex: 9581
+16 bits of the hash in Decimal: 38273
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added 0ec50bab-d1bf-402d-9400-614c87bb5a72 into the Priority Blocking Queue
+
+Added the Block into Legder
+Added the Block into Legder
+Added f42f7c1a-2aa1-4063-b21e-5d40353a4c44 into the Priority Blocking Queue
+
+Added c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3 into the Priority Blocking Queue
+
+Hash Value for Block Record is: 5432AF3475BE7D1435B588A08C83E87D59DAA0AFD566381C3E59E32797470C5E
+16 bits of the hash in Hex: 5432
+16 bits of the hash in Decimal: 21554
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 54CDE9136112932156E36DEA15AC4FA80770F818733178AD091D6150CF456EA5
+16 bits of the hash in Hex: 54CD
+16 bits of the hash in Decimal: 21709
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Added the Block into Legder
+Added the Block into Legder
+Hash Value for Block Record is: 242184BF463D6EB82199D227717B2490A934882A62740035C6D49C7AA51644BD
+16 bits of the hash in Hex: 2421
+16 bits of the hash in Decimal: 9249
+Verified block : eab92fb8-b805-4ae1-bdbc-456655a5f2e6
+Verified block : eab92fb8-b805-4ae1-bdbc-456655a5f2e6
+Added eab92fb8-b805-4ae1-bdbc-456655a5f2e6 into the Priority Blocking Queue
+
+Verified block : eab92fb8-b805-4ae1-bdbc-456655a5f2e6
+JSON has been created and the file has been created into the disk
+You can ask the program for the options credits, verify or list.
+
+Enter C or V or L:
+
+Process 'TWO':
+Command Line Aruguments
+$ java -cp ".;gson-2.8.2.jar" Blockchain 2
+BlockChain Program has started up......
+
+BlockInput2.txt is being read by the program.
+The Main Server started and is at port : 4602
+Updated Block chain Server started and is at port: 4932
+Unverified Block Server started and is at port 4822
+Public Keys Server started and is at the port: 4712
+Starting all the processes
+Starting all the processes
+Starting all the processes
+Publickey received for Process: 1
+Starting the Program Block Chain
+Public Key created for Multicasting is : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxwC8yRl9AaFSfZ/ih+x3PKBcSr
+5yEmc7mcNmu2fC1SdFlG8svSnxLZJTmtCVB5qybpPrtnybZ2udQeqZjew5T+mDOirqxzlJh5RlmmootlIxTCqUtsgmBBHscx3mypzsz/lO
+UUUsGmLsrQpyK3qqHE0Fq9aoOAFB0krwzTH/KFQIDAQAB
+Publickey received for Process: 2
+Publickey received for Process: 0
+Added the Block into Legder
+Added bcb9fecd-4985-42f9-ba9f-dfe3fc91d793 into the Priority Blocking Queue
+
+Added bd90965a-9ab7-4161-b63e-72e0c8803e78 into the Priority Blocking Queue
+
+Added c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3 into the Priority Blocking Queue
+
+Added eab92fb8-b805-4ae1-bdbc-456655a5f2e6 into the Priority Blocking Queue
+
+Added 45482682-65bf-41b6-bf2e-4105752fba5f into the Priority Blocking Queue
+
+Added d25898b6-3420-4cb1-9c97-171181447d20 into the Priority Blocking Queue
+
+Added a0adaf35-6350-49c7-891c-bfece2a69e03 into the Priority Blocking Queue
+
+Added 49b01baf-ccc4-4a09-9e4a-ce5e3b5563b7 into the Priority Blocking Queue
+
+Added 33f7f433-554a-49ce-a7ba-c6e381e4a6b9 into the Priority Blocking Queue
+
+Added 0ec50bab-d1bf-402d-9400-614c87bb5a72 into the Priority Blocking Queue
+
+Added f42f7c1a-2aa1-4063-b21e-5d40353a4c44 into the Priority Blocking Queue
+
+Added 21cfff1f-8fd7-47fd-8dd0-a7a32c24995b into the Priority Blocking Queue
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: C0880DDD8E6B04A307FC2AFD3DF623D8069DC6B541CFACE1614C794CA3332D76
+16 bits of the hash in Hex: C088
+16 bits of the hash in Decimal: 49288
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Hash Value for Block Record is: 4865BDEA24009B14A57468D6C62EBEC3A947621D48F99474BCDA592147EE8040
+16 bits of the hash in Hex: 4865
+16 bits of the hash in Decimal: 18533
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : bd90965a-9ab7-4161-b63e-72e0c8803e78
+Updated block : bd90965a-9ab7-4161-b63e-72e0c8803e78
+Updated block : bd90965a-9ab7-4161-b63e-72e0c8803e78
+Hash Value for Block Record is: 92A2A82DBAFDA8435BB05CEF19056FC07232E2302ADA3B25579F23C92FB9D360
+16 bits of the hash in Hex: 92A2
+16 bits of the hash in Decimal: 37538
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: B02DF8CBD41E8F7FDFE917DD082C833323946405371ED500D63E23AD558577DB
+16 bits of the hash in Hex: B02D
+16 bits of the hash in Decimal: 45101
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added bd90965a-9ab7-4161-b63e-72e0c8803e78 into the Priority Blocking Queue
+
+Hash Value for Block Record is: 106BCE75FF7EEA2805166E195E3F706545C01B904163A72D1951160DFC6EBB40
+16 bits of the hash in Hex: 106B
+16 bits of the hash in Decimal: 4203
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : 45482682-65bf-41b6-bf2e-4105752fba5f
+Updated block : 45482682-65bf-41b6-bf2e-4105752fba5f
+Updated block : 45482682-65bf-41b6-bf2e-4105752fba5f
+Hash Value for Block Record is: 62EDA637353725EDFDEAB35B12FA3F0AE74BE68253DA1FF354F923767DD0B5BF
+16 bits of the hash in Hex: 62ED
+16 bits of the hash in Decimal: 25325
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: ABC2B6FD7BB03276B7AD07C8355B7D647B7621338856F100E85513A8A62FC707
+16 bits of the hash in Hex: ABC2
+16 bits of the hash in Decimal: 43970
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added 45482682-65bf-41b6-bf2e-4105752fba5f into the Priority Blocking Queue
+
+Hash Value for Block Record is: C82F32577302E506B893D34E8F8350B74C790908B43549C356B938C33D62EF1E
+16 bits of the hash in Hex: C82F
+16 bits of the hash in Decimal: 51247
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Hash Value for Block Record is: 26F839524A372E7588490DC713F87F5FED41A235DD346E822D41972AE0162125
+16 bits of the hash in Hex: 26F8
+16 bits of the hash in Decimal: 9976
+Verified block : 33f7f433-554a-49ce-a7ba-c6e381e4a6b9
+Verified block : 33f7f433-554a-49ce-a7ba-c6e381e4a6b9
+Verified block : 33f7f433-554a-49ce-a7ba-c6e381e4a6b9
+Block ID Signed
+Added 33f7f433-554a-49ce-a7ba-c6e381e4a6b9 into the Priority Blocking Queue
+
+Hash is Signed
+Hash Value for Block Record is: 5881BB61C29A2C8126E0543094D1125B3B17E703D6D0D3D7CC232CEFFC11DED4
+16 bits of the hash in Hex: 5881
+16 bits of the hash in Decimal: 22657
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Hash Value for Block Record is: 4B2A9F79AC772115838C172775CFF71CD7AD958858A7A9517D2D1408415135FA
+16 bits of the hash in Hex: 4B2A
+16 bits of the hash in Decimal: 19242
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : bcb9fecd-4985-42f9-ba9f-dfe3fc91d793
+Updated block : bcb9fecd-4985-42f9-ba9f-dfe3fc91d793
+Updated block : bcb9fecd-4985-42f9-ba9f-dfe3fc91d793
+Hash Value for Block Record is: FC600949FA1FB37C4E0A48D7A28C759A2CEDEDA1C60D968259C8503BDEA57C24
+16 bits of the hash in Hex: FC60
+16 bits of the hash in Decimal: 64608
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 99634E5EC3FD64B9CD43256016D6CCA6F1E8E2F8D72F790DC1358AEE91129C7B
+16 bits of the hash in Hex: 9963
+16 bits of the hash in Decimal: 39267
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Added d25898b6-3420-4cb1-9c97-171181447d20 into the Priority Blocking Queue
+
+Added bcb9fecd-4985-42f9-ba9f-dfe3fc91d793 into the Priority Blocking Queue
+
+Hash Value for Block Record is: 3BD0610787F4B0E19DA0FD5A251810A0EA11857630147B6EBA2327EA86EF787C
+16 bits of the hash in Hex: 3BD0
+16 bits of the hash in Decimal: 15312
+Verified block : d25898b6-3420-4cb1-9c97-171181447d20
+Verified block : d25898b6-3420-4cb1-9c97-171181447d20
+Verified block : d25898b6-3420-4cb1-9c97-171181447d20
+Block ID Signed
+Added d25898b6-3420-4cb1-9c97-171181447d20 into the Priority Blocking Queue
+
+Hash is Signed
+Hash Value for Block Record is: DE39F5697750156FDBC97E42BAD29834A37F723C7BEF39C8A7B0C798F6A685C3
+16 bits of the hash in Hex: DE39
+16 bits of the hash in Decimal: 56889
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added the Block into Legder
+Added the Block into Legder
+Hash Value for Block Record is: 05A434F4BE4E742A46482A78F1ED7F767A4AFB0C45ED70C7C9D07F4ABC94B636
+16 bits of the hash in Hex: 05A4
+16 bits of the hash in Decimal: 1444
+Verified block : 0ec50bab-d1bf-402d-9400-614c87bb5a72
+Verified block : 0ec50bab-d1bf-402d-9400-614c87bb5a72
+Verified block : 0ec50bab-d1bf-402d-9400-614c87bb5a72
+Block ID Signed
+Added 0ec50bab-d1bf-402d-9400-614c87bb5a72 into the Priority Blocking Queue
+
+Hash is Signed
+Hash Value for Block Record is: 2AA9E3413D450812D039884A48185126828EE4B924C64D07E6C4CD07271CC50F
+16 bits of the hash in Hex: 2AA9
+16 bits of the hash in Decimal: 10921
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : a0adaf35-6350-49c7-891c-bfece2a69e03
+Updated block : a0adaf35-6350-49c7-891c-bfece2a69e03
+Updated block : a0adaf35-6350-49c7-891c-bfece2a69e03
+Hash Value for Block Record is: 6160DEB16DCCFB565F5F3A927F591F2A78836AE938BE901EA4ABEC7C413EAE6D
+16 bits of the hash in Hex: 6160
+16 bits of the hash in Decimal: 24928
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 02C8100CFB05AA4A9D8F0257F88DC0B271D3EBB443774A7E981A40736B077EA4
+16 bits of the hash in Hex: 02C8
+16 bits of the hash in Decimal: 712
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : f42f7c1a-2aa1-4063-b21e-5d40353a4c44
+Updated block : f42f7c1a-2aa1-4063-b21e-5d40353a4c44
+Updated block : f42f7c1a-2aa1-4063-b21e-5d40353a4c44
+Hash Value for Block Record is: 1D4BB87C49306EAF2C824567507FFD7AF6770B02499586A8BED103BD6C562EDA
+16 bits of the hash in Hex: 1D4B
+16 bits of the hash in Decimal: 7499
+Verified block : f42f7c1a-2aa1-4063-b21e-5d40353a4c44
+Verified block : f42f7c1a-2aa1-4063-b21e-5d40353a4c44
+Verified block : f42f7c1a-2aa1-4063-b21e-5d40353a4c44
+Block ID Signed
+Hash is Signed
+Added f42f7c1a-2aa1-4063-b21e-5d40353a4c44 into the Priority Blocking Queue
+
+Hash Value for Block Record is: E41510628C16DFC3D0F5B3991263E42C2501FB15EA5722CB9CA3A2355F2614C1
+16 bits of the hash in Hex: E415
+16 bits of the hash in Decimal: 58389
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added c613876e-7c9b-4ba4-8e9f-7ada1bf4adb3 into the Priority Blocking Queue
+
+Hash Value for Block Record is: 236C8E62C640E83C63BD08C5E2A561ADAFD3EA45092D80B0D1B9EF6130591ADC
+16 bits of the hash in Hex: 236C
+16 bits of the hash in Decimal: 9068
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : eab92fb8-b805-4ae1-bdbc-456655a5f2e6
+Updated block : eab92fb8-b805-4ae1-bdbc-456655a5f2e6
+Updated block : eab92fb8-b805-4ae1-bdbc-456655a5f2e6
+Hash Value for Block Record is: 5082AD75915DE4B9201B51B8F33720D6A100D93CD40458F09A3185E8872A9784
+16 bits of the hash in Hex: 5082
+16 bits of the hash in Decimal: 20610
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 06D562F0F7857BC3235E7DBB2CEF6F1217545CAF8EAE9CBAD2172745326A2794
+16 bits of the hash in Hex: 06D5
+16 bits of the hash in Decimal: 1749
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : 49b01baf-ccc4-4a09-9e4a-ce5e3b5563b7
+Updated block : 49b01baf-ccc4-4a09-9e4a-ce5e3b5563b7
+Updated block : 49b01baf-ccc4-4a09-9e4a-ce5e3b5563b7
+Hash Value for Block Record is: 517BBF92F0B8F45185C92DF9A9EEFB18DA2B2753D4D29FBE219378A895B8366F
+16 bits of the hash in Hex: 517B
+16 bits of the hash in Decimal: 20859
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Block ID Signed
+Hash is Signed
+Hash Value for Block Record is: 2E66EB5D5BD10E4450EE061A03246B9756015E73BFF337BBB8E6EC03E6C7F81F
+16 bits of the hash in Hex: 2E66
+16 bits of the hash in Decimal: 11878
+Hash count is less than 20000. Solved the puzzle.
+Updated the Ledger..
+Updated block : 21cfff1f-8fd7-47fd-8dd0-a7a32c24995b
+Updated block : 21cfff1f-8fd7-47fd-8dd0-a7a32c24995b
+Updated block : 21cfff1f-8fd7-47fd-8dd0-a7a32c24995b
+Hash Value for Block Record is: E70261EE01930D4DF1244521FFACB13A8809DB53D1577A2CF72B585202F5FF9B
+16 bits of the hash in Hex: E702
+16 bits of the hash in Decimal: 59138
+Hash Count is greater than 20000. Need to solve the puzzle again
+
+Added eab92fb8-b805-4ae1-bdbc-456655a5f2e6 into the Priority Blocking Queue
+
+JSON has been created and the file has been created into the disk
+You can ask the program for the options credits, verify or list.
+
+Enter C or V or L:
+c
+Credit for process 'Zero': 2
+Credit for process 'One': 2
+Credit for process 'Two': 8
+Enter C or V or L:
+v
+SHa-256 hash sign is verified for Block: 13
+13 Block has been verified
+SHa-256 hash sign is verified for Block: 12
+12 Block has been verified
+SHa-256 hash sign is verified for Block: 11
+11 Block has been verified
+SHa-256 hash sign is verified for Block: 10
+10 Block has been verified
+SHa-256 hash sign is verified for Block: 9
+9 Block has been verified
+SHa-256 hash sign is verified for Block: 8
+8 Block has been verified
+SHa-256 hash sign is verified for Block: 7
+7 Block has been verified
+SHa-256 hash sign is verified for Block: 6
+6 Block has been verified
+SHa-256 hash sign is verified for Block: 5
+5 Block has been verified
+SHa-256 hash sign is verified for Block: 4
+4 Block has been verified
+SHa-256 hash sign is verified for Block: 3
+3 Block has been verified
+SHa-256 hash sign is verified for Block: 2
+2 Block has been verified
+Verification of entre Blockchain completed sucessfully!
+
+Enter C or V or L:
+l
+The verified Blocks are displayed below:
+
+13. 1677556888984.2 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees RestFromSports Aspirin
+12. 1677556888890.1 Bruce Lee 1940.11.27 456-789-123 SoreStomach LessCombat Vicodine
+11. 1677556888626.0 Wayne Blaine 1942.07.07 123-45-6777 Measles WaitToGetBetter CodLiverOil
+10. 1677556887972.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease DrugTherapy Steroids
+9. 1677556887878.1 Sally McCutty 1970.01.01 123-456-999 Migraine IcePack Almotriptan
+8. 1677556887608.0 Julie Wilson 1996.03.07 123-45-6999 Insomnia Exercise HotPeppers
+7. 1677556886953.2 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey
+6. 1677556886861.1 Wei Xu 1996.03.22 123-456-333 Shingles WaitForRelief Zovirax
+5. 1677556886595.0 Joe Blow 1996.03.07 123-45-6888 Smallpox BedRest Whiskey
+4. 1677556885886.2 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin
+3. 1677556885757.1 Rita Vita 1992.01.31 999-456-789 ObessivePersonality TryToRelax Ibuprofen
+2. 1677556885565.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin
+1. 1677556885342.0 Nikhil Yakkala 1999.09.16 187-42-1234 Meningitis PainMedicine HealthyFood
+
+Enter C or V or L:
+
+
